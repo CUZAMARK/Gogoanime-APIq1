@@ -5,7 +5,7 @@ const userAgent = require('user-agents');
 
 // https://www3.gogoanimes.fi/
 // https://gogoanime.run
-const baseUrl = "https://gogoanime.run"
+const baseUrl = "https://anitaku.bz"
 
 async function newSeason(page) {
     var anime_list = []
